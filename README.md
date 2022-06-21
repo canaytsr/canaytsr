@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Java programming
 - 🌱 I’m currently learning Software Test Automation in Patika.dev
 - 💬 Ask me about anyting
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/canay-tasar)
+- 📫 How to reach me: Linkedin
 - 😄 Pronouns: she/her
 
 <!--[![Linedin Badge]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link) -->

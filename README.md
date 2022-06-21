@@ -8,9 +8,10 @@
 - 🔭 I’m currently working on Java programming
 - 🌱 I’m currently learning Software Test Automation in Patika.dev
 - 💬 Ask me about anyting
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/canay-tasar)
+- 📫 How to reach me: [![Linedin Badge]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/canay-tasar)  
+<!-- [Linkedin](www.linkedin.com/in/canay-tasar)
 - 😄 Pronouns: she/her
 
-[![Linedin Badge](https://img.shields.io/badge/-Linkedin-000?style=quare&labelColor=000&logo=Linledin&logoColor=white&link=link)](link) 
+[![Linedin Badge]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link) 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=canaytsr&show_icons=true&theme=gradient) 

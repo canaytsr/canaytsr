@@ -5,7 +5,7 @@
 <!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working as a full stack developer
-<!-- 🌱 I’m currently learning Software Test Automation in Patika.dev-->
+- 🌱I’m interested in Artificial Intelligence and Blockchain technologies
 - 💬 Ask me about anyting
 - 📫 How to reach me: [Linkedin](http://linkedin.com/in/canay-tasar)
 - 😄 Pronouns: she/her

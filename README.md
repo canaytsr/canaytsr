@@ -10,8 +10,6 @@
 - 📫 How to reach me: [Linkedin](http://linkedin.com/in/canay-tasar)
 - 😄 Pronouns: she/her
 
-<!--[![Linedin Badge]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link) -->
-
 
 ## Languages :
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
